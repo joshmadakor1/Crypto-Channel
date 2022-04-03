@@ -1,0 +1,2 @@
+Symbol: [Enter exchange symbol here without brackets. For example -> Symbol: ETH]
+Explanation: [Enter explanation here without brackets. For example -> Explanation: Ethereum is the best]
