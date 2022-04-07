@@ -1,2 +1,2 @@
-Symbol: [Remove brackets and enter exchange symbol here. For ex: BTC, ETH, DOGE, or LINK]
-Explanation: [Remove brackats and explain your selection here.]
+Symbol: [Remove brackets and enter exchange symbol here. For ex: BTC, ETH, DOGE, LINK, etc.]
+Reason: [Remove brackats and explain your selection here.]
